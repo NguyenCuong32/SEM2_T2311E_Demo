@@ -1,0 +1,24 @@
+[
+  {
+    "car_name": "VF8",
+    "model": 2022,
+    "make_year": 2023,
+    "description": "Best car",
+    "address": {
+      "city": "Ha noi",
+      "district": "My dinh"
+    },
+    "isAcitve":true
+  },
+  {
+    "car_name": "BMW",
+    "model": 2010,
+    "make_year": 2011,
+    "description": "Best sell",
+    "address": {
+      "city": "Ha noi",
+      "district": "My dinh"
+    },
+    "isAcitve":false
+  }
+]
