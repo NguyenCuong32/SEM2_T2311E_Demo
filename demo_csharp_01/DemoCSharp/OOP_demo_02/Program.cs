@@ -11,5 +11,7 @@ internal class Program
 
         Bycle2 bycle = new Bycle2();
         bycle.RunBycle();
+
+        Manager.SetManager();
     }
 }
