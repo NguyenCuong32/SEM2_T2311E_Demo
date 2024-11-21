@@ -12,3 +12,5 @@ demo_csharp_01/DemoCSharp/Practice_02/obj/*
 demo_csharp_01/DemoCSharp/Practice_02/bin/*
 demo_csharp_01/DemoCSharp/Practice_03/obj/*
 demo_csharp_01/DemoCSharp/Practice_03/bin/*
+DemoEntityFramework/DemoEntityFramework/bin/*
+DemoEntityFramework/DemoEntityFramework/obj/*
